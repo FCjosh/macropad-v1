@@ -598,4 +598,9 @@ Text GLabel 4900 3625 2    50   Input ~ 0
 COL0
 Text GLabel 4900 3725 2    50   Input ~ 0
 ROW1
+Wire Wire Line
+	6825 1175 6925 1175
+Wire Wire Line
+	6925 1175 6925 1675
+Connection ~ 6925 1675
 $EndSCHEMATC
